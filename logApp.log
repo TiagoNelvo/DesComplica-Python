@@ -1,0 +1,6 @@
+ERROR:root:Problema na divisão do numero por zero
+Traceback (most recent call last):
+  File "<ipython-input-11-dbf27d3e5e9a>", line 7, in calculoValores
+    resultado = num1/num2
+                ~~~~^~~~~
+ZeroDivisionError: division by zero

@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "<ipython-input-10-1ea5a4df4183>", line 5, in <module>
+    arquivo = open(nome_arquivo)
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Tilto\AppData\Roaming\Python\Python312\site-packages\IPython\core\interactiveshell.py", line 310, in _modified_open
+    return io_open(file, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'xpto.xp'
