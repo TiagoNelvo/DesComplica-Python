@@ -1,0 +1,24 @@
+{    
+    "funcionarios":[
+        {
+            "nome": "Lucas",
+            "sobrenome": "Silva",
+            "idade": 32,
+            "endereco":{ 
+                "rua" : "Rua das Frores 30",
+                "cidade": "Mangaratiba",
+                "estado": "Rio de Janeiro"
+          }
+         },
+        {
+            "nome": "Sara",
+            "sobrenome": "Castro",
+            "idade": 40,
+            "endereco":{ 
+                "rua" : "Rua dos Andradas 50",
+                "cidade": "Búzio",
+                "estado": "Rio de Janeiro"
+          }
+        }
+    ]
+}
