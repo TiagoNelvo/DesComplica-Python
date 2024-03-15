@@ -1,0 +1,6 @@
+id, produto, categoria, quantidade, preco, incluido_em
+1, liquidificador, eletrodoméstico, 1, 150, 30-05-2023
+2, geladeira, eletrodoméstico, 1, 6000, 30-05-2023
+3, fogão, eletrodoméstico, 1, 1200, 30-05-2023
+4, notebook, eletrônico, 1, 3000, 30-05-2023
+5, celular, eletrônico, 1, 890, 30-05-2023
