@@ -9,7 +9,7 @@ conta2 = Conta(jose,7649,5000)
 
 conta1.deposito(2000)
 
-cota1.saque(8000)
+conta1.saque(8000)
 
 conta1.saque(1000)
 
