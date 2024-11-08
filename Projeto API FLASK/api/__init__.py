@@ -7,9 +7,9 @@ app = Flask(__name__)
 app.config.from_object('config')
 api = Api(app)
 
-db = SQLAlchemy
+db = SQLAlchemy(app)
 ma = Marshmallow(app)
 
-from .controller import aluno_controller
-from .models import aluno_model
+from .controller import aluno_controller, turma_controller
+from .models import aluno_model, turma_model
 
