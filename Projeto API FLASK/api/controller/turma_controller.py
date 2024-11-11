@@ -6,7 +6,7 @@ from ..dto import turma_dto
 from ..service import turma_service
 
 
-class TurmaController():
+class TurmaController(Resource):
     def get(self):
         turmas = turma_service.listar_turmas()
         validate = turma_schema.TurmaSchema(many=True)
